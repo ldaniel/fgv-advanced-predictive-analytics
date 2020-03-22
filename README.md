@@ -38,10 +38,6 @@ Project Organization
     │   │
     │   ├── exercises      <- Scripts for FGV's class assignments
     │   │   └── __init__.py    
-    │   │   └── exercise_1_prime_numbers.py
-    │   │   └── exercise_2_cpf_checker.py 
-    │   │   └── exercise_2_cpf_checker_unittest.py
-    │   │   └── exercise_3_OOP.py       
     │   │   └── playground.py
     │   │
     │   ├── features       <- Scripts to turn raw data into features for modeling
