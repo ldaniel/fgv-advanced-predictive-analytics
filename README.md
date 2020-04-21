@@ -1,5 +1,7 @@
 # Advanced-Predictive-Analytics
-Practicing Advanced Predictive Analytics in Python. 
+Practicing Advanced Predictive Analytics in Python.
+
+Dataset from: https://www.kaggle.com/divyanshrai/handwritten-signatures
 
 Project Organization
 ------------
