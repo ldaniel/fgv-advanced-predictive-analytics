@@ -1,10 +1,10 @@
 # Introduction
 
-Time series analysis comprises methods for analyzing time series data in order to extract meaningful statistics and other characteristics of the data. Time series forecasting is the use of a model to predict future values based on previously observed values.
+In the predictive analysis discipline we aim to develop statistical models, based on data, for a particular outcome of interest. From this model, we make sure that behavioral learning and past experiences have a model with good generalization.
 
-In this project, we developed a set of tasks to go further in Time Series Analysis.
+In this project, we developed a set of tasks to go further in Predictive Analytics by exploring some Deep Learning techniques.
 
-This website intends to present the work analysis for the *"Análise de Séries Temporais"* class assignment.
+This website intends to present the work analysis for the *"Análise Preditiva Avançada"* class assignment.
 
 ```
 Trabalho em grupo de 3 a 4 alunos envolvendo técnicas de aprendizado supervisionado 
