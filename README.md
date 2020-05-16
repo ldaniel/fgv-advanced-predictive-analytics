@@ -10,7 +10,7 @@ This website intends to present the work analysis for the *"Análise Preditiva A
 Trabalho em grupo de 3 a 4 alunos envolvendo técnicas de aprendizado supervisionado 
 de máquina com Deep learning.
 
-Possíveis trabalhos
+Possíveis trabalhos:
 
 - Classificação ou Previsão, Dados Numéricos ou Categóricos, Estilo de problema 
 similar às Regressões Logística ou Linear;
@@ -20,7 +20,7 @@ similar às Regressões Logística ou Linear;
 - Geração de conteúdo (música por exemplo) com redes Auto-Generativas;
 -  Mix de estilos artísticos com Redes Convolutivas / Auto-Generativas.
 
-Material a ser entregue
+Material a ser entregue:
 
 Se fizer em Python (recomendado): Jupyter Notebook com base e resultados (no caso de 
 dados não submetidos à confidencialidade) ou apenas o Jupyter Notebook (com algumas 
@@ -29,8 +29,6 @@ referências de dados que possam "validar" o modelo de rede neural entregue).
 Se fizer em R: Entregar a base de dados e o Rmarkdown. As bibliotecas de machine 
 learning mais utilizadas (scikit-learn, tensorflow e keras) estão disponíveis também 
 no R, porém com um print-end. É necessário instalar o Python para executalas.
-
-Data de entrega: 25/05
 ```
 See the final website report in Rodrigo Gonçalves' Kaggle profile at: [https://www.kaggle.com/rodrigonca/advanced-predictive-analysis-cnn-implementation](https://www.kaggle.com/rodrigonca/advanced-predictive-analysis-cnn-implementation).
 
