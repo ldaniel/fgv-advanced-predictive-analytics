@@ -3,7 +3,15 @@ Practicing Advanced Predictive Analytics in Python.
 
 Dataset from: https://www.kaggle.com/divyanshrai/handwritten-signatures
 
-Project Organization
+## Alunos
+|Github|Kaggle|Nome|Matricula|E-mail|,
+|---|---|---|---|---|,
+|<a href=\https://github.com/DanielFCampos\><img src=\https://avatars2.githubusercontent.com/u/31582602?s=460&v=4\ title=\DanielFCampos\ width=\40\ height=\40\></a>|<a href=\https://www.kaggle.com/danielferrazcampos\><img src=\https://storage.googleapis.com/kaggle-avatars/images/3508055-kg.png\ title=\DanielFCampos\ width=\40\ height=\40\></a>|Daniel Campos|A57635769|[daniel.ferraz.campos@gmail.com](daniel.ferraz.campos@gmail.com)|,
+|<a href=\https://github.com/ldaniel\><img src=\https://avatars2.githubusercontent.com/u/205534?s=460&v=4\ title=\ldaniel\ width=\40\ height=\40\></a>|<a href=\https://www.kaggle.com/leandrodaniel\><img src=\https://storage.googleapis.com/kaggle-avatars/images/3415144-gr.jpg\ title=\ldaniel\ width=\40\ height=\40\></a>|Leandro Daniel|A57622988|[contato@leandrodaniel.com](contato@leandrodaniel.com)|,
+|<a href=\https://github.com/RodriGonca\><img src=\https://avatars2.githubusercontent.com/u/50252438?s=460&v=4\ title=\RodriGonca\ width=\40\ height=\40\></a>|<a href=\https://www.kaggle.com/rodrigonca\><img src=\https://storage.googleapis.com/kaggle-avatars/images/3511253-kg.png\ title=\RodriGonca\ width=\40\ height=\40\></a>|Rodrigo Goncalves|A57566093|[rodrigo.goncalves@me.com](rodrigo.goncalves@me.com)|,
+|<a href=\https://github.com/ygorlima1\><img src=\https://avatars2.githubusercontent.com/u/52429828?s=460&v=4\ title=\ygorlima1\ width=\40\ height=\40\></a>|<a href=\https://www.kaggle.com/ygorlima1\><img src=\https://storage.googleapis.com/kaggle-avatars/images/3427786-kg.jpg\ title=\ygorlima1\ width=\40\ height=\40\></a>|Ygor Lima|A57549661|[ygor_redesocial@hotmail.com](ygor_redesocial@hotmail.com)|
+
+# Project Organization
 ------------
 
     ├── LICENSE
