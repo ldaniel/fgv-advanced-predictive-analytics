@@ -1,15 +1,31 @@
-# Advanced-Predictive-Analytics
-Practicing Advanced Predictive Analytics in Python.
+# Introduction
 
-Dataset from: https://www.kaggle.com/divyanshrai/handwritten-signatures
+Time series analysis comprises methods for analyzing time series data in order to extract meaningful statistics and other characteristics of the data. Time series forecasting is the use of a model to predict future values based on previously observed values.
 
-## Alunos
-|Github|Kaggle|Nome|Matricula|E-mail|
-|---|---|---|---|---|
-|<a href=\https://github.com/DanielFCampos\><img src=\https://avatars2.githubusercontent.com/u/31582602?s=460&v=4\ title=\DanielFCampos\ width=\40\ height=\40\></a>|<a href=\https://www.kaggle.com/danielferrazcampos\><img src=\https://storage.googleapis.com/kaggle-avatars/images/3508055-kg.png\ title=\DanielFCampos\ width=\40\ height=\40\></a>|Daniel Campos|A57635769|[daniel.ferraz.campos@gmail.com](daniel.ferraz.campos@gmail.com)|
-|<a href=\https://github.com/ldaniel\><img src=\https://avatars2.githubusercontent.com/u/205534?s=460&v=4\ title=\ldaniel\ width=\40\ height=\40\></a>|<a href=\https://www.kaggle.com/leandrodaniel\><img src=\https://storage.googleapis.com/kaggle-avatars/images/3415144-gr.jpg\ title=\ldaniel\ width=\40\ height=\40\></a>|Leandro Daniel|A57622988|[contato@leandrodaniel.com](contato@leandrodaniel.com)|
-|<a href=\https://github.com/RodriGonca\><img src=\https://avatars2.githubusercontent.com/u/50252438?s=460&v=4\ title=\RodriGonca\ width=\40\ height=\40\></a>|<a href=\https://www.kaggle.com/rodrigonca\><img src=\https://storage.googleapis.com/kaggle-avatars/images/3511253-kg.png\ title=\RodriGonca\ width=\40\ height=\40\></a>|Rodrigo Goncalves|A57566093|[rodrigo.goncalves@me.com](rodrigo.goncalves@me.com)|
-|<a href=\https://github.com/ygorlima1\><img src=\https://avatars2.githubusercontent.com/u/52429828?s=460&v=4\ title=\ygorlima1\ width=\40\ height=\40\></a>|<a href=\https://www.kaggle.com/ygorlima1\><img src=\https://storage.googleapis.com/kaggle-avatars/images/3427786-kg.jpg\ title=\ygorlima1\ width=\40\ height=\40\></a>|Ygor Lima|A57549661|[ygor_redesocial@hotmail.com](ygor_redesocial@hotmail.com)|
+In this project, we developed a set of tasks to go further in Time Series Analysis.
+
+This website intends to present the work analysis for the *"Análise de Séries Temporais"* class assignment.
+
+```
+Escolher uma série temporal e realizar uma apresentação de 10 min:
+
+- Definir o problema de projeção
+- Descrever a série temporal
+- Estimar com os modelos observado em aula
+- Concluir sobre o melhor modelo
+```
+See the final website report at: [https://www.kaggle.com/rodrigonca/advanced-predictive-analysis-cnn-implementation](https://www.kaggle.com/rodrigonca/advanced-predictive-analysis-cnn-implementation).
+
+## Professor
+- Gustavo Mirapalheta
+
+## Authors / Students
+|Profile|Name|E-mail|
+|---|---|---|
+|<a href="https://github.com/DanielFCampos"><img src="https://avatars2.githubusercontent.com/u/31582602?s=460&v=4" title="DanielFCampos" width="80" height="80"></a>|Daniel Campos|[(daniel.ferraz.campos@gmail.com)](daniel.ferraz.campos@gmail.com)|
+|<a href="https://github.com/ldaniel"><img src="https://avatars2.githubusercontent.com/u/205534?s=460&v=4" title="ldaniel" width="80" height="80"></a>|Leandro Daniel|[(contato@leandrodaniel.com)](contato@leandrodaniel.com)|
+|<a href="https://github.com/RodriGonca"><img src="https://avatars2.githubusercontent.com/u/50252438?s=460&v=4" title="RodriGonca" width="80" height="80"></a>|Rodrigo Goncalves|[(rodrigo.goncalves@me.com)](rodrigo.goncalves@me.com)|
+|<a href="https://github.com/ygorlima1"><img src="https://avatars2.githubusercontent.com/u/52429828?s=460&v=4" title="ygorlima1" width="80" height="80"></a>|Ygor Lima|[(ygor_redesocial@hotmail.com)](ygor_redesocial@hotmail.com)|
 
 # Project Organization
 ------------
