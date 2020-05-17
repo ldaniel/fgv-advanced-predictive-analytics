@@ -59,10 +59,13 @@ See the final website report in Rodrigo Gonçalves' Kaggle profile at: [https://
     │
     ├── models             <- Trained and serialized models, model predictions, or model summaries
     │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
-    │
+    ├── notebooks          <- Jupyter notebooks. 
+    │   └── external_examples <- Generated graphics and figures to be used in reporting
+    │   │
+    │   └── fgv_assignment <- The final class assignment given by Professor Mirapalheta
+    │   │
+    │   └── fgv_classes    <- All notebooks given by Professor Mirapalheta and Professor Hithoshi
+    │                         in theirs respective classes
     ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
     │
     ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
