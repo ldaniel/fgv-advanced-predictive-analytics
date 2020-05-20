@@ -12,6 +12,5 @@ matplotlib
 numpy
 pandas
 tensorflow
-cv2
 scikit-learn
 opencv-python
