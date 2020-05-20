@@ -32,6 +32,9 @@ no R, porém com um print-end. É necessário instalar o Python para executalas.
 ```
 See the final website report in Rodrigo Gonçalves' Kaggle profile at: [https://www.kaggle.com/rodrigonca/advanced-predictive-analysis-cnn-implementation](https://www.kaggle.com/rodrigonca/advanced-predictive-analysis-cnn-implementation).
 
+Ou inicie um container no Binder:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ldaniel/Advanced-Predictive-Analytics/master?filepath=notebooks%2Ffgv_assignment%2Fadvanced-predictive-analysis-cnn-implementation.ipynb)
+
 ## Professor
 - Gustavo Mirapalheta
 
