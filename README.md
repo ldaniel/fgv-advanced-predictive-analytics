@@ -30,11 +30,9 @@ Se fizer em R: Entregar a base de dados e o Rmarkdown. As bibliotecas de machine
 learning mais utilizadas (scikit-learn, tensorflow e keras) estão disponíveis também 
 no R, porém com um print-end. É necessário instalar o Python para executalas.
 ```
-See the final website report in Rodrigo Gonçalves' Kaggle profile at: [https://www.kaggle.com/rodrigonca/advanced-predictive-analysis-cnn-implementation](https://www.kaggle.com/rodrigonca/advanced-predictive-analysis-cnn-implementation).
+:link: See the final website report in Rodrigo Gonçalves' Kaggle profile at: [https://www.kaggle.com/rodrigonca/advanced-predictive-analysis-cnn-implementation](https://www.kaggle.com/rodrigonca/advanced-predictive-analysis-cnn-implementation).
 
-Alternatively run a binder container:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ldaniel/Advanced-Predictive-Analytics/master?filepath=notebooks%2Ffgv_assignment%2Fadvanced-predictive-analysis-cnn-implementation.ipynb)
+:octocat: Alternatively, run a binder container: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ldaniel/Advanced-Predictive-Analytics/master?filepath=notebooks%2Ffgv_assignment%2Fadvanced-predictive-analysis-cnn-implementation.ipynb)
 
 ## Professor
 - Gustavo Mirapalheta
